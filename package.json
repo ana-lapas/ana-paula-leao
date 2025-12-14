@@ -1,0 +1,24 @@
+{
+  "name": "ana-paula-leao",
+  "version": "1.0.0",
+  "description": "Bem-vindo(a) ao meu portfólio! Aqui você encontrará informações sobre mim, meus projetos e como entrar em contato.",
+  "keywords": [
+    "portfolio"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "ana-paula-leao"
+  },
+  "license": "MIT",
+  "author": "Ana Paula Leão",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "next": "^13.1.6",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
